@@ -1,7 +1,7 @@
 # Phase 5
 
 ## Analyse der Datenquellen und elektronischen Varianten
-Notwendige Daten zur Voraussetzung der Angebotserstellung
+Notwendige Kundendaten zur Voraussetzung der Angebotserstellung
 
 - Grundriss / Skizze der Räumlichkeiten bei Vorort Begehung
 - Modelle der Komponenten
