@@ -1,0 +1,27 @@
+site_name: Dokumentation Projekt IT Installationen
+dev_addr: '0.0.0.0:80'
+
+markdown_extensions:
+  - admonition
+  - footnotes
+  - pymdownx.superfences
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+  
+theme:
+  name: material
+  language: de
+  font: false
+
+site_author: "bszetdd it-systems"
+
+extra_css:
+    - css/extra.css
+    
+nav:
+  - Home: index.md
+  - Phase 1: user-guide/phase1.md
+  - Phase 2: user-guide/phase2.md
+  - Phase 3: user-guide/phase3.md
+  - Phase 5: user-guide/phase5.md
