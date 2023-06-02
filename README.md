@@ -1,5 +1,5 @@
 # IT-Projektinstallation
-#### von Gregor Thume, Max Ebert, Jan Sikierka und Viktor Hertfelder
+#### von Gregor Thume, Max Ebert, Jan Siekierka und Viktor Hertfelder
 
 ## Phase 1:
 ### Use-Case-Diagramm
