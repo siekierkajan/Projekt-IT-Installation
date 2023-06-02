@@ -1,7 +1,7 @@
 # Phase 5
 
 ## Analyse der Datenquellen und elektronischen Varianten
-Notwendige Kundendaten zur Voraussetzung der Angebotserstellung
+Notwendige Daten zur Voraussetzung der Angebotserstellung
 
 - Grundriss / Skizze der Räumlichkeiten bei Vorort Begehung
 - Modelle der Komponenten
@@ -31,3 +31,12 @@ TOOLS: Edificius®, Revit®, ArchiCAD®, Allplan®, Tekla®, AutoCAD®, SketchUp
 |Darstellung der Daten||Punkte,Punktmengen, Vektoren|Produktdefinitionsdaten, Geometriedaten|Binär/ASCII||ASCII Textdatei|
 |Import|Genormte Dateiversion, Verarbeitung in allen gängigen CAD-Programmen||Public-Domain-Format, Verarbeitung in allen gängigen CAD-Programmen|AutoCAD|AutoCAD|Offenes Format, alle gängigen BIM-Programme|
 |Metainfos|Produktdaten|Geometriedaten|Geometriedaten, Produktdaten|Vektoren als Binäres|||
+
+## Datennutzung- und Verarbeitung:
+
+Nutzung: Auftraggeber, Angebotsersteller, Planer, Software zur Erstellung und Planung
+Verarbeitung: Software, Einkauf
+
+## Datenformat zur Erstellung der Modelle:
+
+.ifc
